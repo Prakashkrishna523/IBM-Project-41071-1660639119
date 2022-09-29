@@ -1,5 +1,5 @@
 # IBM-Project-41071-1660639119
-                                                 FERTILIZERS RECOMMENDATION SYSTEM FOR DISEASE PREDICTION
+                                              FERTILIZERS RECOMMENDATION SYSTEM FOR DISEASE PREDICTION
 
 <h1>
  <img src="<a href='https://drive.google.com/file/d/1QpQoA1NOixUeD1v78tRH6a60UEuTw3NP/view?usp=sharing' border='0' alt='IBM2'/></a>" />
