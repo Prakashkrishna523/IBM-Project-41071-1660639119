@@ -2,7 +2,7 @@
                                                  Fertilizers Recommendation System For Disease Prediction
 
 <h1>
- <img src="https://drive.google.com/file/d/1QpQoA1NOixUeD1v78tRH6a60UEuTw3NP/view?usp=sharing" />
+ <img src="<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/m2jr37YR/IBM2.jpg' border='0' alt='IBM2'/></a>" />
 </h1>
 
 <h2 align="center">Fertilizers Recommendation System For Disease Prediction <a href="https://github.com/IBM-EPBL/IBM-Project-41071-1660639119" target="_blank">Project</a></h2>
