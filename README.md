@@ -1,4 +1,4 @@
-# HELLO I'M CHANU
+# HELLO I'M CHANU<img src="https://i.gifer.com/1UEW.gif" width="30px">
    <p> # Welcome to our project<img src="https://i.gifer.com/Iz8C.gif" width="30px">
 </p>
 <h1>
