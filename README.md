@@ -1,5 +1,5 @@
 # HELLO I'M CHANU<img src="https://i.gifer.com/1UEW.gif" width="30px">
-   <p> # Welcome to our project<img src="https://i.gifer.com/Iz8C.gif" width="30px">
+   <p>Welcome to our project<img src="https://i.gifer.com/Iz8C.gif" width="30px">
 </p>
 <h1>
  <img src="https://user-images.githubusercontent.com/113221650/193457372-c036ee53-7c0b-4d66-a57a-fdebd5854ea3.jpg"/>
