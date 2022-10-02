@@ -1,6 +1,6 @@
 # IBM-Project-41071-1660639119
 <h1>
- <img src="https://user-images.githubusercontent.com/114812193/193410542-ac5b306c-778c-4755-b18b-b8b30b7436be.jpg"/>
+ <img src="https://user-images.githubusercontent.com/113221650/193457372-c036ee53-7c0b-4d66-a57a-fdebd5854ea3.jpg"/>
 </h1>
 
 <h2 align="center"><p style="color:blue">Fertilizers Recommendation System For Disease Prediction Project</p></h2>
