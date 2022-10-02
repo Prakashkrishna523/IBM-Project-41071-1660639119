@@ -18,7 +18,7 @@
    <a href="https://en.wikipedia.org/wiki/Deep_learning">
     <img src="https://img.shields.io/badge/Machine Learning-33FF38.svg?maxAge=2592000&amp;style=flat">
     <img src="https://img.shields.io/badge/Artificial_intelligence-3389FF.svg?maxAge=2592000&amp;style=flat">
-    <img src="https://img.shields.io/badge/Machine Learning-FF3333.svg?maxAge=2592000&amp;style=flat">
+    <img src="https://img.shields.io/badge/Deep_Learning-FF3333.svg?maxAge=2592000&amp;style=flat">
   </a>
 </p>
 
