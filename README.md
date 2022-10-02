@@ -1,6 +1,6 @@
 # IBM-Project-41071-1660639119
 <h1>
- <img src="<a href='https://user-images.githubusercontent.com/113221650/193048598-54febbcc-2494-4184-aad0-833554cf6a8a.jpg'></a>" />
+ <img src="<a href='https://user-images.githubusercontent.com/113221650/193048598-54febbcc-2494-4184-aad0-833554cf6a8a.jpg'></a> />"
 </h1>
 
 <h2 align="center">Fertilizers Recommendation System For Disease Prediction <a href="https://github.com/IBM-EPBL/IBM-Project-41071-1660639119" target="_blank">Project</a></h2>
