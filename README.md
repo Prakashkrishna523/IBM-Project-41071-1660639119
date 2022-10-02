@@ -1,5 +1,5 @@
 # HELLO I'M CHANU
-   <p> ## Welcome to our project<img src="https://i.gifer.com/Iz8C.gif" width="30px">
+   <p> # Welcome to our project<img src="https://i.gifer.com/Iz8C.gif" width="30px">
 </p>
 <h1>
  <img src="https://user-images.githubusercontent.com/113221650/193457372-c036ee53-7c0b-4d66-a57a-fdebd5854ea3.jpg"/>
@@ -24,7 +24,6 @@
 
 
 ## About AgricultureFarming <img src="https://i.gifer.com/77Jq.gif" width="30px">
-
 - Farming is one of the major sectors that influences a country’s economic growth. 
 
 - In country like India, majority of the population is dependent on agriculture for their livelihood. Many new technologies, such as Machine Learning and Deep Learning, are being implemented into agriculture so that it is easier for farmers to grow and maximize their yield. 
@@ -44,16 +43,12 @@
 Use for instance <https://github.com/IBM-EPBL/IBM-Project-41071-1660639119>:
 
 >   Fertilizers Recommendation System For Disease Prediction
->## Project Objectives: <img src="https://media.giphy.com/media/kEocVFzMtpLBsqAXQA/giphy.gif" width="30px">
+>## Project Objectives: <img src="https://i.gifer.com/7LDn.gif" width="30px">
 
         1. Preprocess the images.
-
         2. Applying the CNN algorithm to the dataset.
-
         3. How deep neural networks detect the disease.
-
         4. You will be able to know how to find the accuracy of the model.
-
         5. You will be able to build web applications using the Flask framework.   
   
 ## Introduction
