@@ -1,8 +1,8 @@
 # IBM-Project-41071-1660639119
-                                              FERTILIZERS RECOMMENDATION SYSTEM FOR DISEASE PREDICTION
+               FERTILIZERS RECOMMENDATION SYSTEM FOR DISEASE PREDICTION
 
 <h1>
- <img src="<a href='![IBM2](https://user-images.githubusercontent.com/113221650/193048598-54febbcc-2494-4184-aad0-833554cf6a8a.jpg)
+ <img src="<a href='https://user-images.githubusercontent.com/113221650/193048598-54febbcc-2494-4184-aad0-833554cf6a8a.jpg
 ' border='1' alt='IBM2'/></a>" />
 </h1>
 
